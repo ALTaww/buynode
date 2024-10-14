@@ -1,0 +1,1 @@
+import{h as r}from"./CZwgHzzz.js";import{b as u,c as p}from"./QxlODfZ-.js";let s;const i=()=>{const a=r(),o=u(a.path),e=u(s);return p(()=>a.path,(h,t)=>{a.path!==t&&!t||(s=t),e.value=t,o.value=h}),{toPath:o,fromPath:e||s}};export{i as u};

@@ -1,0 +1,1 @@
+import{h as o,a6 as a}from"./CZwgHzzz.js";import{N as s,R as r,M as l}from"./QxlODfZ-.js";const c={class:"default-layout"},_={__name:"default",setup(n){const e=o();return a(()=>({link:[{rel:"canonical",href:"https://kupikod.com/shop"+e.path}]})),(t,u)=>(l(),s("div",c,[r(t.$slots,"default")]))}};export{_ as default};
